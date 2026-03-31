@@ -1,16 +1,34 @@
-# notes_application_mvvm
+# 📝 Flutter Notes App
 
-A new Flutter project.
+A modern Notes application built using Flutter with MVVM architecture.
 
-## Getting Started
+## 🚀 Features
+- Add Notes
+- Edit Notes
+- Delete Notes
+- Search Notes 🔍
+- Filter (All / Pinned 📌)
+- Local Storage using Sqflite
 
-This project is a starting point for a Flutter application.
+## 🧠 Tech Stack
+- Flutter
+- Provider (State Management)
+- Sqflite (Database)
+- MVVM Architecture
 
-A few resources to get you started if this is your first Flutter project:
+## 📂 Folder Structure
+lib/
+- core/
+- models/
+- viewmodels/
+- views/
+- services/
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📸 Screenshots
+(Add screenshots here)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 💡 Key Learnings
+- State management with Provider
+- Local database handling
+- MVVM architecture implementation
+- Filtering & search logic
