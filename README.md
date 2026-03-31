@@ -25,7 +25,11 @@ lib/
 - services/
 
 ## 📸 Screenshots
-(Add screenshots here)
+![Home Screen](screenshots/home-screen-1.jpeg)
+![Home Screen](screenshots/home-screen-2.jpeg)
+![Edit Note](screenshots/edit-note-screen.jpeg)
+![Add Note](screenshots/add-note-screen.jpeg)
+![Delete Note](screenshots/delete-note.jpeg)
 
 ## 💡 Key Learnings
 - State management with Provider
